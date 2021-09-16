@@ -10,4 +10,6 @@ It contains all the basic functions of GIS: <br>
 <br>
 Development version information: ArcGIS Engine 10.1 <br>
 <br>
+The attached sample layer is saved in: "bin\data\" folder.<br><br>
+
 The author is Huang Hongtian, a 2018 undergraduate from the School of Remote Sensing and Information Engineering, Wuhan University. Welcome to download and share ideas.
