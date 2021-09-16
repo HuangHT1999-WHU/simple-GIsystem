@@ -1,0 +1,17 @@
+D:\2018302080104\Code\MyGISystem\MyGISystem\bin\Debug\MyGISystem.exe
+D:\2018302080104\Code\MyGISystem\MyGISystem\bin\Debug\MyGISystem.pdb
+D:\2018302080104\Code\MyGISystem\MyGISystem\obj\x86\Debug\MyGISystem.Form1.resources
+D:\2018302080104\Code\MyGISystem\MyGISystem\obj\x86\Debug\MyGISystem.Properties.Resources.resources
+D:\2018302080104\Code\MyGISystem\MyGISystem\obj\x86\Debug\MyGISystem.csproj.GenerateResource.Cache
+D:\2018302080104\Code\MyGISystem\MyGISystem\obj\x86\Debug\MyGISystem.exe
+D:\2018302080104\Code\MyGISystem\MyGISystem\obj\x86\Debug\MyGISystem.pdb
+D:\2018302080104\Code\MyGISystem\MyGISystem\obj\x86\Debug\MyGISystem.csprojResolveAssemblyReference.cache
+D:\2018302080104\Code\MyGISystem备份1\MyGISystem\obj\x86\Debug\MyGISystem.exe
+D:\2018302080104\Code\MyGISystem备份1\MyGISystem\obj\x86\Debug\MyGISystem.pdb
+D:\2018302080104\Code\MyGISystem备份1\MyGISystem\obj\x86\Debug\MyGISystem.csprojResolveAssemblyReference.cache
+D:\2018302080104\Code\MyGISystem备份1\MyGISystem\obj\x86\Debug\MyGISystem.Form1.resources
+D:\2018302080104\Code\MyGISystem备份1\MyGISystem\obj\x86\Debug\MyGISystem.Properties.Resources.resources
+D:\2018302080104\Code\MyGISystem备份1\MyGISystem\obj\x86\Debug\MyGISystem.csproj.GenerateResource.Cache
+D:\2018302080104\Code\MyGISystem备份1\MyGISystem\bin\Debug\MyGISystem.exe
+D:\2018302080104\Code\MyGISystem备份1\MyGISystem\bin\Debug\MyGISystem.pdb
+D:\2018302080104\Code\MyGISystem\MyGISystem\obj\x86\Debug\MyGISystem.d3QueryResultForm.resources

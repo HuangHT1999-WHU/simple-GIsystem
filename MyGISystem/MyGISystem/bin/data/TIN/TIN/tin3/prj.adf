@@ -1,0 +1,7 @@
+Projection    UTM
+Zone          16
+Datum         NAD27
+Spheroid      CLARKE1866
+Units         METERS
+Zunits        NO
+Parameters    
